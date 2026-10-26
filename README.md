@@ -1,6 +1,1 @@
----
-title: twin
-app_file: app.py
-sdk: gradio
-sdk_version: 6.14.0
----
+This is my digital twin that can answers questions about my resume that presented in Linkedin :)
